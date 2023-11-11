@@ -1,1 +1,0 @@
-# Qurrban-App
