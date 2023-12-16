@@ -40,7 +40,7 @@
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">LOGIN</h1>
                                     </div>
-                                    <?= $this->session->flashdata('message');?>
+                                    <?= $this->session->flashdata('pesan');?>
                                     <form class="user" method="post" action="<?= base_url('autentifikasi'); ?>">
                                         <div class="form-group">
                                             <input type="text" class="form-control 
